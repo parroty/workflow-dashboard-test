@@ -1,5 +1,4 @@
 name: "Run Tests"
-invalid-key: test
 
 on:
   push:
